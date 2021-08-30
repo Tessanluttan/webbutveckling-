@@ -1,0 +1,22 @@
+body{
+    background-color: aquamarine;
+    color: hotpink;
+}
+H1{
+    font-family: Arial;
+    font-size: 22px;
+}
+H2{
+    background-color: lightgrey;
+    color: lime;
+    text-align: center;
+}
+.höger{
+    text-align: right;
+}
+.ram{
+    border:2px solid navy;
+}
+.länk{
+    text-decoration: none;
+}
